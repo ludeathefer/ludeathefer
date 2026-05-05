@@ -1,5 +1,5 @@
 ## Hi, I'm Pragalbha
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Enthusiast;Learning+Backend)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Learning+Backend)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ludeathefer)
 
@@ -13,25 +13,29 @@
 ---
 
 ### Tech Stack
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![VHDL](https://img.shields.io/badge/-VHDL-black?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat)
 
 ---
 
 ### Projects
-- **TerraTokens** – Blockchain-based land ownership system
-- **SpaceType** - Space Invaders inspired touch typing tutor
-- **Hustle** - One day gigs platform with volunteers matchmaking
-- **Beneath Mohenjo-Daro** - CodeCombat inspired RPG with engaging puzzles to make DSA fun
-- **Study Planner** - A planner that tracks assignments, tasks and revisions
-- **Rubik's Cube** - Interactive Rubik's cube simulator
+- [TerraTokens](https://github.com/ludeathefer/TerraTokens) – Blockchain-based land ownership system
+- [SpaceType](https://github.com/ludeathefer/SpaceType) - Space Invaders inspired touch typing tutor
+- [Hustle](https://github.com/ludeathefer/Hustle) - One day gigs platform with volunteers matchmaking
+- [Beneath Mohenjo-Daro](https://github.com/Regenerate38/BeneathMohenjoDaro) - CodeCombat inspired RPG with engaging puzzles to make DSA fun
+- [Study Planner](https://github.com/ludeathefer/StudyPlanner) - A planner that tracks assignments, tasks and revisions
+- [Rubik's Cube](https://github.com/ludeathefer/RubiksCube) - Interactive Rubik's cube simulator
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludeathefer&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludeathefer&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludeathefer&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludeathefer&layout=compact&theme=tokyonight&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ludeathefer)
 
