@@ -43,6 +43,7 @@
 ---
 
 <div align="center">
+  
   ![snake gif](https://github.com/ludeathefer/ludeathefer/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
