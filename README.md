@@ -48,8 +48,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=ludeathefer)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludeathefer&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludeathefer&layout=compact&theme=tokyonight&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=ludeathefer)
+
+</div>
 
