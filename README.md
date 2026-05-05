@@ -1,7 +1,17 @@
+<div align="center">  
+
 ## Hi, I'm Pragalbha
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Learning+Backend)
+</div>
+<div align="center">  
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Learning+Backend)
+
+</div>
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ludeathefer)
+
+</div>
 
 ---
 
@@ -33,7 +43,12 @@
 - [Study Planner](https://github.com/ludeathefer/StudyPlanner) - A planner that tracks assignments, tasks and revisions
 - [Rubik's Cube](https://github.com/ludeathefer/RubiksCube) - Interactive Rubik's cube simulator
 
-### GitHub Stats
+<div align="center">
+  
+  ![snake gif](https://github.com/ludeathefer/ludeathefer/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ludeathefer&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludeathefer&layout=compact&theme=tokyonight&cache_seconds=1800)
