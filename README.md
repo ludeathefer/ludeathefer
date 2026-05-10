@@ -57,4 +57,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludeathefer&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 </div>
+---
+<div>
+  ### Github Trophies
+   [![trophy](https://github-profile-trophy.vercel.app/?username=ludeathefer)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
